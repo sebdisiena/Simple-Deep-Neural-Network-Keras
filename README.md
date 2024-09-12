@@ -1,7 +1,7 @@
 # Simple Deep Neural Network Model using Keras
 
 ## Objective 
-- Project to implement the Tensorflow and Keras libraries to train and test a multi layer neural network to classify a non-linear dataset into 2 discrete binary classes
+- Project to implement the Tensorflow and Keras libraries to (supervise) train and test a multi layer neural network to classify a non-linear dataset into 2 discrete binary classes
 - Dataset was produced using the Sklearn library 
 
 ## Method
